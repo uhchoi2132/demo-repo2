@@ -1,0 +1,20 @@
+{
+  "scenario_id": "csg_smoke_v1",
+  "run_id": "csg_smoke_v1-20260420T083453Z",
+  "sim_time_s": 12.0,
+  "ships_total": 2,
+  "ships_surviving": 1,
+  "ships_lost": 1,
+  "defended_asset_survival_rate": 0.5,
+  "threats_total": 4,
+  "threats_neutralized": 3,
+  "drone_neutralized": 2,
+  "missile_neutralized": 1,
+  "leaks": 1,
+  "interceptors_launched": 5,
+  "detections": 31,
+  "tracks_created": 4,
+  "max_active_tracks": 4,
+  "promotion_status": "exploratory",
+  "reward_proxy": 42.75
+}
